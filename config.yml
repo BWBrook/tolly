@@ -1,0 +1,36 @@
+project:
+  title: "There and Back by Hedge and Stone"   # placeholder
+  scope: "Shire-centric novella, TA 3017 (SR 1417)"
+  adjacency: true   # not canonical imitation; no direct quotes, no pastiche-by-copy
+style:
+  diction_ratio: { anglo_to_latinate: "3:1_shire", "2:1_lore": true }
+  archaism_budget_per_1000w: 6         # ≈ ≤2/page, page ~300–350w
+  alliteration_target_per_paragraph: 1 # soft target
+  sentence_length:
+    min: 8
+    max: 45
+    long_sentence_allowance_per_1000w: 2
+anchoring:
+  place_or_road_mention_every_pages: 2
+  distance_units: ["mile","miles","league","leagues"]
+  time_phrasing_allowed: ["after harvest","first frost","spring sowing","by sundown","at first light","by bells"]
+canon:
+  ta_year: 3017
+  shire_reckoning: 1417
+  hard_bans: ["Nazgûl on Shire roads","Sharkey/ruffians","Scouring events","overt fireworks visit in 3017","Saruman meddling locally"]
+  offstage_allowed: ["Rangers vigilant","Dwarves trading","Greenway traffic","rumors from Bree"]
+songs:
+  per_chapter_max: 1
+  default_meter: "anapestic_tetrameter/trimeter"
+  rhyme_schemes_allowed: ["AABB","ABAB"]
+naming:
+  morphemes_productive:
+    prefixes: ["By","Stock","Wood","Hay","Rush","Over"]
+    suffixes: ["-hay","-bottle","-bridge","-gate","-worth","-delving","-combe","-holm","-brook","-burrow","-ridge","-foot"]
+  gloss_required_within_paragraphs: 3
+quality_gates:
+  style_score_min: 85
+  hard_fail_on:
+    - "METRIC_UNITS"
+    - "BANNED_MODERN_LEXIS"
+    - "CANON_BREACH"

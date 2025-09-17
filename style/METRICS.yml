@@ -1,0 +1,13 @@
+metrics:
+  anglo_latinate_ratio:
+    shire: ">=3:1"
+    lore: ">=2:1"
+  archaism_per_1000w: "<=6"
+  long_sentences_per_1000w: "<=2"
+  place_anchor_every_pages: "<=2"
+  song_per_chapter: "<=1"
+  gloss_proximity_paragraphs: "<=3"
+  dialogue_voice_separation: "distinct"
+  banned_modern_lexis: "0"
+  units_metric: "0"
+  style_score_min: ">=85"
