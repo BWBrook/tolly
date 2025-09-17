@@ -4,7 +4,10 @@
 This repo is Markdown-first. `chapters/` stores draft chapters; use `chNN.md` as template and preserve YAML front matter. `background/me_eriador.md` holds lore notes that must back every gloss. `planning/tolly.md` tracks character and arc decisions; update it before structural changes. `style/` provides the binding rules (`STYLE_GUIDE.md`, metrics, lexicon lists). `checks/style_lint_spec.md` defines QA gates. Park any lyrics or experiments inside `songs/` until folded into a chapter.
 
 ## Build, Test, and Development Commands
-No build pipeline exists; run lightweight shell checks instead:
+Preferred: run the wrapper script.
+- `checks/run_style_checks.sh` — bundles MUST/SHOULD ripgrep checks (banned lexis/units, time + place anchors, song quota, new-name glosses). Exits non‑zero on failure.
+
+No build pipeline exists; run lightweight shell checks as needed:
 - `rg --ignore-case -f style/LEXICON/banned_modern.txt chapters || true` – ensure banned modern lexis is absent (exit 1 with no matches is normal).
 - `wc -w chapters/ch01.md` – confirm draft word counts vs. `wordcount_target`.
 - `rg -n 'new_proper_nouns' chapters` then `rg -n 'Haygate Stone' background` – double-check new names have nearby glosses or documented research.
