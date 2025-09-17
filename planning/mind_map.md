@@ -3,11 +3,12 @@
 Center premise: strange goings‑on near Sarn Ford; a Shire hobbit (Tolly) keeps faith with memory while Rangers keep the ford. Tone: pastoral foreground, epic horizon. Scale: human‑sized; no grand battles.
 
 ## Cast & Factions (spokes)
-- Core: Tolly (quiet, evidence‑minded); Maralda Bunce (archives, practical); Tomberic Greenback (roadcraft, brave).
+- Core: Tolly [full name: Tolman Noakes] (quiet, evidence‑minded); Maralda Bunce (archives, practical); Tomberic Greenback (roadcraft, brave).
 - Shire: Auntie Wierdy (hearth), Bounders/Shirriffs (gatekeeping, etiquette), Michel Delving officials (Mathom‑house).
 - Rangers: Nathron + 1–2 unnamed; courteous, wary; not quest‑dispensers.
 - Riverfolk: ferryman, weed‑cutters, night watch.
 - Southerners/Vagrants: mixed motives; one frightened deserter used by others.
+- Romance: understated, slow-burn development of the personal relationship between Tolly and Maralda; very Tolkienesque.
 
 ## Places & Thresholds (edges to cross)
 - Shire lanes: Bywater Road, Stock Road, Green Hill Country, Hay Gate.

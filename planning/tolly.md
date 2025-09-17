@@ -4,6 +4,7 @@
 
 **Public facts (Shire‑visible)**
 
+* Full name: Tolman Noakes; almost everyone calls him Tolly.
 * Age: 28 in TA 3017 (SR 1417). Northfarthing farmhand; quiet, decent reputation.
 * Guardianship: Raised by Auntie Wierdy after a childhood house‑fire; lives near the Greenfields.
 * Associates: Maralda Bunce (Michel Delving archives), Tomberic Greenback (road‑savvy Hobbiton trader).
