@@ -59,3 +59,24 @@ Purpose: translate the existing guides into concrete steps and files so the agen
 ## Open Questions
 - Do we want a tiny `checks/run_style_checks.sh` wrapper? If yes, place it in `checks/` and keep it POSIX‑sh only.
 - Should we add `.editorconfig` to enforce two‑space indentation for lists and YAML? If approved, add at repo root.
+
+---
+
+## Next Required Steps (Pre‑Drafting)
+
+Goal: finish belts‑and‑braces so the first prose pass can proceed without thrash.
+
+1) Authoring Workflow Doc — add `planning/WORKFLOW.md` with a stage‑gated process (brief → anchors → background updates → scaffold → checks → PR). Include acceptance criteria and exact commands (use `checks/run_style_checks.sh`).
+2) Front‑Matter Schema — document allowed keys and enums in `planning/FRONT_MATTER_SCHEMA.md` (authorable by hand; no code gen). Include examples and validation tips.
+3) Geography & Gloss Coverage — expand `background/geography_shire.md` to ~20 entries and `background/glossary.md` with any planned new names for ch02–ch03 (placeholder stubs allowed).
+4) Review Aids — finalize `checks/review_prompts.md` (done) and keep `checks/regexes.md` in sync as rules evolve. Optionally add a one‑shot `make check` alias later.
+5) Repo Hygiene — add `.editorconfig` (2‑space indent, UTF‑8, LF) and a minimal PR template at `.github/pull_request_template.md` aligned to the review prompts.
+6) Chapter Queue — create `chapters/ch03.md` scaffold when outline is ready; keep `chapters/_index.md` updated with beats and anchors.
+
+Status
+- 1) WORKFLOW — COMPLETED (`planning/WORKFLOW.md`).
+- 2) Schema — COMPLETED (`planning/FRONT_MATTER_SCHEMA.md`).
+- 3) Geo/Gloss — IN PROGRESS (initial set added; extend for ch02–ch03).
+- 4) Review Aids — COMPLETED (initial); maintain as rules change.
+- 5) Hygiene — COMPLETED (`.editorconfig`, `.github/pull_request_template.md`).
+- 6) Chapter Queue — PENDING (await ch03 outline).
