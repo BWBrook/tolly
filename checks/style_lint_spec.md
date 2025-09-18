@@ -90,7 +90,27 @@
   * Ranger: longer sentences, strong verbs, few questions.
     **Threshold:** Cosine distance between profiles ≥ ε.
     **Failure:** Style score decrease.
-    **Fix:** Recast lines to match profiles.
+**Fix:** Recast lines to match profiles.
+
+### Orthography & Punctuation
+
+* **SL-UK-701 (MUST)** — British spelling for common variants
+  **Method:** Whole-word scan using `style/LEXICON/american_to_british.tsv` (e.g., colour, traveller, grey, honour, armour).
+  **Threshold:** 0 US variants.
+  **Failure:** List offending tokens with line numbers.
+  **Fix:** Replace with British forms; when in doubt, prefer OED-friendly spellings (‑our, ‑re, doubled L; allow -ise/-ize as editorial choice).
+
+* **SL-PUNC-702 (SHOULD)** — Em‑dashes used sparingly
+  **Method:** Count U+2014 occurrences per chapter.
+  **Threshold:** ≤ 3 per chapter.
+  **Failure:** Advisory; reduce where possible by using commas, colons, or parentheses.
+  **Fix:** Replace excess em‑dashes with alternative punctuation that fits cadence.
+
+* **SL-ITAL-703 (SHOULD)** — Italics used occasionally
+  **Method:** Count inline `*italic*` spans per chapter (heuristic).
+  **Threshold:** ≤ 4 per chapter.
+  **Failure:** Advisory; reduce emphasis or switch to diction/cadence for stress.
+  **Fix:** Remove or recast emphasis; keep rare for key beats.
 
 ### Naming Discipline
 
@@ -320,7 +340,7 @@ Extend prudently.
 ## Maintenance: How to Extend Without Drift
 
 * If you add an archaism to the whitelist, reduce the budget by an equivalent token elsewhere.
-* Expanding the anglo\_core list? Add no more than 20 at a time; re‑run a sample to ensure ratios don’t become trivial.
+* Expanding the anglo_core list? Add no more than 20 at a time; re‑run a sample to ensure ratios don’t become trivial.
 * New morphemes for names require an example + justification in `planning/name_table.tsv`.
 
 ---

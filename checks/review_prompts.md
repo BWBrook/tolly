@@ -15,6 +15,10 @@ Use this checklist in PRs. Quote rule IDs from `checks/style_lint_spec.md`.
 - [ ] SL-GEO-202 (SHOULD) — Movement/mapability present (verbs + landforms + cardinal hints).
 - [ ] SL-DIA-401 (SHOULD) — Distinct voices for Hobbit/Bree/Ranger where applicable.
 
+- [ ] SL-UK-701 (MUST) — British English spelling (colour, traveller, grey, honour, etc.).
+- [ ] SL-PUNC-702 (SHOULD) — Em‑dashes used sparingly (≤ 3 per chapter); alternatives considered.
+- [ ] Triad Review — `planning/triad_tracking.md` updated for this triad; contradictions/repetitions addressed; protocols consistent.
+
 PR must also include:
 - [ ] Updated `qa_status` in chapter front matter (e.g., ["linted"]).
 - [ ] Any new geography added to `background/geography_shire.md`.

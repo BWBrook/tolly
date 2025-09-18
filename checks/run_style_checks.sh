@@ -20,7 +20,7 @@ fi
 errors=0
 
 echo "== Checking banned modern lexis (SL-BAN-003) =="
-hits=$($RG -n --ignore-case -f style/LEXICON/banned_modern.txt "$CHAPTERS_DIR"/ch*.md 2>/dev/null || true)
+hits=$($RG -n -w --ignore-case -f style/LEXICON/banned_modern.txt "$CHAPTERS_DIR"/ch*.md 2>/dev/null || true)
 if [ -n "$hits" ]; then
   echo "BANNED LEXIS FOUND:" >&2
   echo "$hits" >&2
@@ -54,6 +54,39 @@ for f in "$CHAPTERS_DIR"/ch*.md; do
     echo "OK: time anchor present — $(basename "$f")"
   else
     echo "MISSING allowed time phrase — $f" >&2
+    errors=$((errors+1))
+  fi
+done
+
+echo "\n== Checking British spelling (MUST) =="
+mapfile=${MAPFILE_PATH:-style/LEXICON/american_to_british.tsv}
+if [ -f "$mapfile" ]; then
+  us_words=$(awk -F '\t' 'NF==2{print $1}' "$mapfile")
+  hits=""
+  for w in $us_words; do
+    m=$($RG -n -w -i "$w" "$CHAPTERS_DIR"/ch*.md 2>/dev/null || true)
+    [ -n "$m" ] && hits="$hits\n$m"
+  done
+  if [ -n "$hits" ]; then
+    echo "US spellings found; prefer British forms (see american_to_british.tsv):" >&2
+    printf "%b\n" "$hits" | sed '/^$/d' >&2
+    errors=$((errors+1))
+  else
+    echo "OK: British spellings in use (no US variants detected)."
+  fi
+else
+  echo "Note: mapping file not found: $mapfile (skipping)."
+fi
+
+echo "\n== Checking em-dash usage (SHOULD: ≤ 3 per chapter) =="
+emdash_limit=${EMDASH_MAX:-3}
+for f in "$CHAPTERS_DIR"/ch*.md; do
+  [ -e "$f" ] || continue
+  count=$($RG -o "—" "$f" | wc -l | awk '{print $1}')
+  if [ "$count" -le "$emdash_limit" ]; then
+    echo "OK: em-dashes $count ≤ $emdash_limit — $(basename "$f")"
+  else
+    echo "EM-DASH overuse ($count) — $f" >&2
     errors=$((errors+1))
   fi
 done
@@ -102,6 +135,41 @@ for f in "$CHAPTERS_DIR"/ch*.md; do
   if [ "$missing" -eq 0 ]; then
     echo "OK: all new names glossed — $(basename "$f")"
   else
+    errors=$((errors+1))
+  fi
+done
+
+echo "\n== Checking triad tracking coverage (SHOULD) =="
+triad_file=planning/triad_tracking.md
+missing_cover=0
+if [ -f "$triad_file" ]; then
+  for f in "$CHAPTERS_DIR"/ch*.md; do
+    [ -e "$f" ] || continue
+    base=$(basename "$f" .md)
+    if ! grep -q "$base" "$triad_file"; then
+      echo "TRIAD LOG missing entry for $base — add to planning/triad_tracking.md" >&2
+      missing_cover=1
+    fi
+  done
+  if [ "$missing_cover" -eq 0 ]; then
+    echo "OK: triad tracking covers all present chapters."
+  else
+    errors=$((errors+1))
+  fi
+else
+  echo "Triad tracking file not found (planning/triad_tracking.md)." >&2
+  errors=$((errors+1))
+fi
+
+echo "\n== Checking italics usage (SHOULD: ≤ 4 per chapter) =="
+italic_limit=${ITALIC_MAX:-4}
+for f in "$CHAPTERS_DIR"/ch*.md; do
+  [ -e "$f" ] || continue
+  count=$($RG -o '\*[^*\n]{1,60}\*' "$f" | wc -l | awk '{print $1}')
+  if [ "$count" -le "$italic_limit" ]; then
+    echo "OK: italics $count ≤ $italic_limit — $(basename "$f")"
+  else
+    echo "ITALICS overuse ($count) — $f" >&2
     errors=$((errors+1))
   fi
 done

@@ -19,8 +19,10 @@ See `repo_structure.md` for a fuller map.
 
 ## Writing Rules (essentials)
 - Diction leans Anglo‑Saxon; archaism budget ≤ 6 per 1000 words; avoid banned modern terms in `style/LEXICON/banned_modern.txt`.
+- Use British English spelling (e.g., colour, traveller, grey); see `style/LEXICON/american_to_british.tsv`.
 - Time phrasing uses allowed anchors in `config.yml` (e.g., “after harvest”, “by bells”). Distances: miles/leagues only.
 - ≤ 1 song per chapter; use hobbit walking/bath song patterns (see `songs/song_specs.md`).
+- Em‑dashes (—) sparingly (aim ≤ 3 per chapter). Italics for emphasis are allowed occasionally.
 - Place/road anchors appear about every ~700 words; keep movement mapable.
 
 ## Commands

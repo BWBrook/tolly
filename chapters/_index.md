@@ -2,6 +2,7 @@
 
 - Prologue — The Quiet Ledger
   - One‑liner: Maralda spots foreign leaf tallies; Bree/Greenway rumors stir concern.
+  - Anchors: Michel Delving; Mathom-house | Time: by bells | Song: none
 
 - ch01 — Mist on the Water
   - One‑liner: Tolly notes odd signs (crows, reed‑whistle) and seeks Maralda’s counsel.

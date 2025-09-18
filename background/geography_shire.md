@@ -17,6 +17,7 @@ Scope: quick references for likely locations; 1–2 lines each. Prefer modest, l
 - Hobbiton — village along The Water; The Hill and Bagshot Row rise to the west.
 - Bywater — twin to Hobbiton; Green Dragon Inn overlooks the pool.
 - Michel Delving — chief town on the White Downs; Mathom‑house and mayor’s offices.
+  - Mathom-house — museum of keepsakes and curios; cool rooms and careful records.
 - Tuckborough — Tookland seat; Great Smials tunneled into the Green Hills.
 - Long Cleeve — Northfarthing village; home to North‑Tooks; cooler weather.
 - Bindbole Wood — northern wood; quiet paths and coppice work.

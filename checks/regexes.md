@@ -40,3 +40,16 @@ List chapters that declare new names:
 rg -n "^new_proper_nouns:\\s*\\[.*\\]" chapters
 ```
 Then verify each appears in `background/glossary.md` within close proximity.
+
+## British Spelling (MUST)
+Prefer British forms for common US variants (colour, traveller, grey, etc.). Backed by `style/LEXICON/american_to_british.tsv`.
+```
+awk -F '\t' 'NF==2{print $1}' style/LEXICON/american_to_british.tsv | \
+  xargs -I{} rg -n -w -i {} chapters/ch*.md
+```
+
+## Em‑dashes (SHOULD)
+Use sparingly (≤ 3 per chapter). Count occurrences:
+```
+for f in chapters/ch*.md; do printf "%s: " "$f"; rg -o "—" "$f" | wc -l; done
+```

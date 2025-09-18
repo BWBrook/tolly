@@ -32,6 +32,16 @@ Purpose: ensure every chapter reaches a coherent first draft without canon/style
 - Actions: begin prose drafting in small passes (300–600 words), keeping anchors intact; add at most one song if planned.
 - Ongoing: update `qa_status` (e.g., `peer_read`) and glossary as names solidify.
 
+## Stage 6 — Triad Review (every 3 chapters)
+- Trigger: After completing each triad (e.g., Prologue–ch02, ch03–ch05, ...).
+- Actions: update `planning/triad_tracking.md` with events, objects, signals/protocols, and open threads for each chapter; scan for contradictions and repetitions; harmonise diction/register across the triad.
+- Commands:
+  - `checks/run_style_checks.sh` (all chapters in triad) — confirm zero failures.
+  - Optional: `rg -n "—" chapters/ch0[0-5].md` — audit em‑dashes manually.
+- Acceptance: triad log updated; no unresolved contradictions; PR “Triad Review N” opened if substantial edits were required.
+
+Editorial stance: adopt a “Tolkien‑editor” persona — think margin notes on old exam papers. Trim over‑modern phrasing, prefer British orthography, reduce em‑dashes, and keep the pastoral foreground with an epic horizon. Songs are occasional and functional, not filler.
+
 ## Notes & Conventions
 - Distances: miles/leagues; time phrases from `config.yml`.
 - Songs: ≤1 per chapter; see `songs/song_specs.md`.
