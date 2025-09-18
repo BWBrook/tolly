@@ -16,12 +16,15 @@
 
 - ch03 — Leaf and Ledger
   - One‑liner: In Longbottom, foreign tally‑marks surface in a quiet leaf trade.
+  - Anchors: Longbottom; leaf barns | Time: by bells | Song: none
 
 - ch04 — Road Through Green Hills
   - One‑liner: Companions set aims and take the road, a walking‑song on their lips.
+  - Anchors: Green Hill Country; Tookland | Time: after harvest | Song: planned
 
 - ch05 — First Watch at the Ford
   - One‑liner: At Sarn Ford, Tolly learns river‑signs and narrowly misreads a skiff.
+  - Anchors: Sarn Ford; Ranger blind | Time: at first light | Song: none
 
 - ch06 — False Cairns
   - One‑liner: A false cairn line betrays a surveyed channel; tarred scrap in hand.

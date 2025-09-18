@@ -35,3 +35,22 @@ Purpose: ultra‑lean continuity ledger. Update after each triad (every three ch
 - Confirm ledger hand at Longbottom; witness bale transfer discreetly.
 - First watch at Sarn Ford; gather initial river‑sign evidence; near‑miss skiff wake.
 - Begin decoding reed‑knots; check ferrystone alignment.
+
+---
+
+## Group 1 — ch03 to ch05 (prep)
+
+- ch03 — Leaf and Ledger (Longbottom; leaf barns; by bells)
+  - Planned events: ledger hand spotted; bale with foreign tally‑marks changes hands.
+  - Objects: copied tally‑marks; buyer’s seal noted; names withheld.
+  - Open threads: Who carries the marks; route from barns to ferry path.
+
+- ch04 — Road Through Green Hills (Green Hill Country; Tookland; after harvest)
+  - Planned events: travel and aims; hobbit walking song; companions align.
+  - Objects: none yet; notes on road‑sign and toponyms.
+  - Open threads: wolf‑rumour on southern farms; readiness for the ford.
+
+- ch05 — First Watch at the Ford (Sarn Ford; Ranger blind; at first light)
+  - Planned events: river‑sign lesson; near‑miss skiff wake; rope/tar scent clue.
+  - Objects: first tar scrap likely; depth notes begin.
+  - Open threads: false cairn line to trace in next chapters.

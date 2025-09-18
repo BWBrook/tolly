@@ -1,5 +1,5 @@
 # Sticky Note for Future Agent
-Last updated: 2025-09-17
+Last updated: 2025-09-18
 
 If you are a fresh instance, start here to regain context fast and avoid canon/style slips.
 
@@ -32,19 +32,19 @@ If you are a fresh instance, start here to regain context fast and avoid canon/s
 - Manual grep (if needed): `rg -n -f style/LEXICON/banned_modern.txt chapters`.
 
 ## Current Status (last session)
-- Mind map and structural plan DONE; chapter one‑liners added to `chapters/_index.md`.
-- Ch01–Ch02 scaffolds exist; rest pending.
-- Geography expanded (incl. Westfarthing); glossary seeded (Ferrystone, Lantern Shutter, etc.).
-- Tooling in place: review prompts, regex helpers, PR template, `.editorconfig`.
+- Prologue (ch00), ch01, ch02 drafted; British spelling and em‑dash rules enforced; all checks pass.
+- ch02 includes a short hobbit watch‑song (AABB) placed at the Hay Gate.
+- Triad system in place: Stage 6 in `planning/WORKFLOW.md`; `planning/triad_tracking.md` Group 0 logged; Group 1 (ch03–ch05) prepped.
+- ch03 scaffolded; anchors/time added in `chapters/_index.md` for ch03–ch05.
+- Geography expanded (incl. Westfarthing); glossary seeded (Ferrystone, Lantern Shutter, Buyer’s Seal, etc.).
+- Tooling: wrapper lint script, review prompts, UK spelling map, italics advisory, PR template, `.editorconfig`.
 
 ## Next Recommended Steps
-- Batch 1 (pre‑draft):
-  - Add anchors/time for ch03–ch06 in `_index.md` (if missing).
-  - Scaffold `chapters/ch03.md` only when beats are stable (use `planning/FRONT_MATTER_SCHEMA.md`).
-  - Update `background/glossary.md` with any new `new_proper_nouns` stubs.
-  - Run `checks/run_style_checks.sh` and fix failures.
-  - Open “Scaffold Batch 1 (ch03–ch06)” PR using `.github/pull_request_template.md`.
-- Keep geography/timeline in sync as new places/time anchors appear.
+- Draft ch03 (“Leaf and Ledger”), then ch04 (“Road Through Green Hills”), then ch05 (“First Watch at the Ford”).
+- Maintain British orthography; keep em‑dashes ≤ 3/chapter; italics sparingly.
+- Update `background/glossary.md` and `background/geography_shire.md` as new names/places appear.
+- Keep `planning/triad_tracking.md` current; after ch03–ch05, perform Stage 6 Triad Review (edit pass + checks) before proceeding.
+- Run `checks/run_style_checks.sh` regularly; open PRs with the review checklist when scaffolds/drafts are ready.
 
 ## Style Snapback (voice reminders)
 - Anglo‑Saxon leaning diction; gentle alliteration per paragraph; measured polysyndeton.
