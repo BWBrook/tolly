@@ -20,7 +20,9 @@ Follow `style/STYLE_GUIDE.md`: Anglo-Saxon leaning diction, controlled polysynde
 Treat `checks/style_lint_spec.md` as the checklist. Validate time anchors against `config.yml`, confirm `song_present` never exceeds one per chapter, and reread for cadence targets. Update each file’s `qa_status` array (e.g., `["linted","peer_read"]`) as checkpoints pass, and call out unresolved risks—missing place anchors, gloss debts—in the PR body.
 
 ## Commit & Pull Request Guidelines
-Keep commits scoped to a scene, glossary sweep, or planning update. Use imperative, ≤72-character titles such as `Add Sarn Ford fog beat`. PRs should state intent, list touched files, paste your QA checklist, and link to any new research sources. Include verse screenshots only when meter review is easier visually. Notify reviewers once lint checks pass and glossary updates are committed.
+Keep commits scoped to a scene, glossary sweep, or planning update. Use imperative, ≤72-character titles such as `Add Sarn Ford fog beat`. PRs should state intent, list touched files, paste your QA checklist, and link to any new research sources. Include verse screenshots only when meter review is easier visually. Notify reviewers once lint checks pass and glossary updates are committed.  
+
+Never do a remote push unless the developer explicitly requests it.
 
 ## Agent Workflow Tips
 Revise planning notes before drafting prose so continuity contracts stay current. Stage new lexicon entries in `style/LEXICON/` only after confirming they meet the allowed strata. Store partial drafts or verse experiments in `songs/` or a scratch branch until ready for review.
