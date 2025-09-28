@@ -46,3 +46,6 @@ Scope: quick references for likely locations; 1–2 lines each. Prefer modest, l
 - Little Delving — small settlement on the White Downs; chalk cuttings and neat smials.
 - Nobottle — scattered farms in the north‑west; pasture and low lanes between hedge‑banks.
 - Greenholm — far‑west farm cluster toward the Far Downs; wide fields and long sunsets.
+# Watch Tokens & Landmarks (ford vicinity)
+- Fork‑crown Willow — landmark two fields down the ferry path; discreet split‑stick token drop used by Rangers/Bounders.
+- Hollow Lane Rail — old stile rail near the Downs road; notched as a quiet message point (used sparingly).

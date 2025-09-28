@@ -38,6 +38,18 @@
   - One‑liner: Wolf‑sign across the river raises stakes without crossing Shire lanes.
   - Anchors: south bank; shoals | Time: at first light | Song: present (Ranger half‑lay, distant)
 
+- ch09 — Countersigns and Courtesy
+  - One‑liner: Bounders and Rangers agree on countersigns; courtesy holds under strain.
+  - Anchors: Hay Gate; Bounder post | Time: by bells | Song: none
+
+- ch10 — The Tally and the Map
+  - One‑liner: Knots, cairns, and tallies align—someone maps the Shire’s approach.
+  - Anchors: Longbottom; ford overlook | Time: by sundown | Song: none
+
+- ch11 — The Moved Stone
+  - One‑liner: Ferrystone tamper confirmed; a test of the bad channel becomes a near‑miss.
+  - Anchors: ferrystone; shoals | Time: at first light | Song: none
+
 - ch06 — False Cairns
   - One‑liner: A false cairn line betrays a surveyed channel; tarred scrap in hand.
 

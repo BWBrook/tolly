@@ -80,3 +80,22 @@ Continuity Check
 - Memory chain: tallies → twine → tar crumb → rope fibre/tar → cairn map → knot primer + timing notes → wolf‑sign/time‑pressure.
 - Protocols: no answering taps; low lanterns; one token tale/day; no tampering without coordination; doubled watches at dawn/dusk after ch08.
 - Canon rails: no crossings into Shire lanes; wolves remain across; Ranger lay fragment kept distant and untranslated.
+
+---
+
+## Group 3 — ch09 to ch11 (prep)
+
+- ch09 — Countersigns and Courtesy (Hay Gate; Bounder post; by bells)
+  - Planned events: Bounder nearly misled by reed‑whistle; countersigns agreed; rota shared; courtesy phrasing captured for tokens/messages.
+  - Objects: countersign list; watch rota; “don’t answer unknown reeds” rule posted.
+  - Open threads: ensure countersigns don’t make tidy signals for onlookers.
+
+- ch10 — The Tally and the Map (Longbottom; ford overlook; by sundown)
+  - Planned events: coalesce proofs (knot code + cairn line + tallies); inference phrased for Mathom‑house; pressure note from Greenway tidings.
+  - Objects: integrated evidence page; neat copy for record packet.
+  - Open threads: communicate without naming names; Ranger confirmation sought.
+
+- ch11 — The Moved Stone (ferrystone; shoals; at first light)
+  - Planned events: confirm tamper by voice vs. placement; test channel; near‑miss rope/keel scrape; depth notes updated.
+  - Objects: rope fibres logged; voice change timings vs. wind; amended sketch.
+  - Open threads: whether to restore stone now or later (decision delayed to ch16).
