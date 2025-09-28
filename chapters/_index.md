@@ -76,6 +76,8 @@
 
 - ch18 — The Ford Holds
   - One‑liner: The ford holds; warnings sent south; companions turn for home.
+  - Anchors: Sarn Ford; ford overlook | Time: by sundown | Song: none
 
 - Epilogue — The Memory Kept
   - One‑liner: Records are lodged at the Mathom‑house; memory kept for darker days.
+  - Anchors: Michel Delving; Mathom-house | Time: by bells | Song: none

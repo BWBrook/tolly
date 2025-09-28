@@ -154,3 +154,15 @@ Continuity & Rails
 - Tokens: ch15 refreshes tight‑turn (double watches at dawn/dusk); ch16 resets to straight tie (all watches as posted) with loose loop retained (wait on the look); ch17 maintains ordinary watches and propagates knot knowledge (ferryman + Bounders).
 - Countersign: “By bells” used as proverb (not call‑and‑answer) in ch15; practice consistent in ch17.
 - Ferrystone: voice consistent; no fresh scrape; true guides restored with joint action.
+
+---
+
+## Group 6 — ch18 to ch19 (scaffolded)
+
+- ch18 — The Ford Holds (Anchors: Sarn Ford; ford overlook | Time: by sundown | Song: none)
+  - Planned events: morning audit (steady ferrystone; no new cairns); courtesy rounds; warning sent south; faint reed ignored; skiff by day with escort; companions turn homeward.
+  - Objects: rota cleaned; short ledger line; rider copy south.
+
+- ch19 — The Memory Kept (Anchors: Michel Delving; Mathom‑house | Time: by bells | Song: none)
+  - Planned events: deposits logged (map copy; knot primer; tar scrap; cord); Mayor brief; compact recognised as standing practice; closing image of ordinary museum light.
+  - Objects: red‑threaded packet receipts; civic ledger sentence.
