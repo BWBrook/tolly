@@ -64,12 +64,15 @@
 
 - ch15 — Night of Small Courage
   - One‑liner: Tomberic’s lamp steadies a tense night; the probe withdraws.
+  - Anchors: Hay Gate; Bounder post | Time: by bells | Song: none
 
 - ch16 — Dismantling the Lines
   - One‑liner: False marks are cleared and the ford’s true guides restored.
+  - Anchors: willow‑holt; ferrystone | Time: at first light | Song: none
 
 - ch17 — Keep the Watches
   - One‑liner: A Ranger relays a courteous message—“keep the watches”—said of Gandalf.
+  - Anchors: Hay Gate; ford overlook | Time: after harvest | Song: none
 
 - ch18 — The Ford Holds
   - One‑liner: The ford holds; warnings sent south; companions turn for home.

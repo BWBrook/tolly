@@ -129,3 +129,24 @@ Continuity & Rails
 - Protocols: “No answering unknown reeds”; “Lantern low, never still”; day escort only; dawn/dusk double watches; one brief token tale/day; no stone/cairn moves without joint action.
 - Canon: Rangers present but thin; wolves remain across; no named powers; Nazgûl/Sharkey absent; scale local; no pitched fights.
 - Style: UK orthography; banned modern lexis absent; ≤3 em‑dashes; zero songs in triad; time anchors varied (by sundown | after harvest | by bells).
+
+---
+
+## Group 5 — ch15 to ch17 (review — completed)
+
+- ch15 — Night of Small Courage (Anchors: Hay Gate; Bounder post | Time: by bells | Song: none)
+  - Events (actual): night watch holds countersign; unknown reed ignored; soft knock unanswered; one traveller fed and told “by day”; lantern low to road only; token refreshed; clean handover at dawn.
+  - Objects: rota dot marked; token retied (tight turn; loose loop intact); brief ledger lines.
+
+- ch16 — Dismantling the Lines (Anchors: willow‑holt; ferrystone | Time: at first light | Song: none)
+  - Events (actual): joint action with Rangers/Bounders; depth voice verified; bright cairns bagged; tar smear logged; wrong bar mapped before/after; true guides restored unobtrusively; cord/twine collected and red‑threaded.
+  - Objects: bag of bright stones; tar scrap notes; “before/after” sketches; rota window marked.
+
+- ch17 — Keep the Watches (Anchors: Hay Gate; ford overlook | Time: after harvest | Song: none)
+  - Events (actual): compact propagated to second post; ferryman taught tight‑turn knot; Ranger relays message “Keep the watches” (said to come by a grey pilgrim, unnamed); sign audit clean; traveller sent by day with company; copies made and carried.
+  - Objects: additional post copy; service copies; audit notes (no reeds answered; ferrystone steady).
+
+Continuity & Rails
+- Protocols hold and spread; compact proves functional in practice.
+- Canon safety maintained; message relayed courteously without naming the power; scale local.
+- Style gates observed; no song in triad; time anchors varied; UK orthography; banned lexis absent.
