@@ -149,4 +149,8 @@ Continuity & Rails
 Continuity & Rails
 - Protocols hold and spread; compact proves functional in practice.
 - Canon safety maintained; message relayed courteously without naming the power; scale local.
-- Style gates observed; no song in triad; time anchors varied; UK orthography; banned lexis absent.
+- Style gates observed; time anchors varied; UK orthography; banned lexis absent.
+- Song present: ch16 includes 1 hobbit work‑song (AABB; anapestic bias; 2 stanzas) that advances tone (careful communal mending). Triad total songs = 1.
+- Tokens: ch15 refreshes tight‑turn (double watches at dawn/dusk); ch16 resets to straight tie (all watches as posted) with loose loop retained (wait on the look); ch17 maintains ordinary watches and propagates knot knowledge (ferryman + Bounders).
+- Countersign: “By bells” used as proverb (not call‑and‑answer) in ch15; practice consistent in ch17.
+- Ferrystone: voice consistent; no fresh scrape; true guides restored with joint action.
