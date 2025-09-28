@@ -56,3 +56,22 @@ Purpose: ultra‑lean continuity ledger. Update after each triad (every three ch
   - Open threads: false cairn pebbles too bright; reed‑knot decoding next; watch repeats by dawn.
 
 Continuity: memory chain advances (tallies → twine → tar crumb → rope fibre + timings). Courtesy protocols upheld (no answers; low lanterns; one tale per day).
+
+---
+
+## Group 2 — ch06 to ch08 (prep)
+
+- ch06 — False Cairns (willow‑holt; gravel bar; by sundown)
+  - Planned events: discover false cairn line; topple lead stones; collect tar scrap; sketch cairn positions.
+  - Objects: tar scrap; cairn map; note ferrystone voice vs. stone placement.
+  - Open threads: test if cairn line returns; watchers’ response to cleared stones.
+
+- ch07 — Knots on the Reeds (reed beds; ferrystone; at first light)
+  - Planned events: decode reed‑knot primer; confirm ferrystone seems shifted; log code examples.
+  - Objects: knot primer notes; comparison to prior twine; ferrystone sketch.
+  - Open threads: who ties knots; where the timing points sit.
+
+- ch08 — Wolf‑Sign at Dawn (south bank; shoals; at first light)
+  - Planned events: find prints/kill‑pattern across the river; increase time pressure; distant Ranger lay heard.
+  - Objects: none taken; descriptions logged; song fragment remembered.
+  - Open threads: keep wolves/warg strictly beyond bounds; confirm south‑side movements.

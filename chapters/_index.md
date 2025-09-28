@@ -27,6 +27,18 @@
   - Anchors: Sarn Ford; Ranger blind | Time: at first light | Song: none
 
 - ch06 — False Cairns
+  - One‑liner: A line of false cairns betrays a surveyed channel; tar scrap in hand.
+  - Anchors: willow-holt; gravel bar | Time: by sundown | Song: none
+
+- ch07 — Knots on the Reeds
+  - One‑liner: Reed‑knots yield a code; the ferrystone seems subtly askew.
+  - Anchors: reed beds; ferrystone | Time: at first light | Song: none
+
+- ch08 — Wolf‑Sign at Dawn
+  - One‑liner: Wolf‑sign across the river raises stakes without crossing Shire lanes.
+  - Anchors: south bank; shoals | Time: at first light | Song: present (Ranger half‑lay, distant)
+
+- ch06 — False Cairns
   - One‑liner: A false cairn line betrays a surveyed channel; tarred scrap in hand.
 
 - ch07 — Knots on the Reeds
