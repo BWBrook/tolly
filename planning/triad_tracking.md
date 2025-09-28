@@ -104,3 +104,22 @@ Continuity & Rails
 - Memory chain: tallies → twine → tar crumb → knot primer/cairn map → rope fibre/tar + near‑miss → integrated statement.
 - Protocols: By bells; lantern low/never still; one token tale/day; no answers to unknown reeds; doubled watches; coordinate before moving markers.
 - Canon: wolves remain across; no named powers invoked; Ranger lay fragment kept distant and functional.
+
+---
+
+## Group 4 — ch12 to ch14 (prep)
+
+- ch12 — Fog Intercept (mid‑ford; willow shadow; by sundown)
+  - Planned events: fog rolls; lantern mis‑signal executed to divert skiff; tar scrap and watertight pouch recovered; faint two‑blast horn south; crows scatter.
+  - Objects: pouch contents (to log, not spoil); tar scrap; incident timings.
+  - Open threads: test courtesy vs. cunning; keep tokens short; no pursuit.
+
+- ch13 — The Deserter’s Tale (bank fire; blind; after harvest, late)
+  - Planned events: hospitality test; frightened man speaks of “buyers”/“new masters” without names; mercy shown; knot meanings confirmed/maps hinted.
+  - Objects: rough map fragment; primer corroboration; no names recorded.
+  - Open threads: signal origins; maintain rails (no overt naming).
+
+- ch14 — Bounders’ Compact (Hay Gate; watch posts; by bells)
+  - Planned events: formalise protocols; share countersigns; agree ferry rules; resolve missing net red herring.
+  - Objects: posted rules copy; rota updates; Mathom‑house notice.
+  - Open threads: readiness for later joint action (stone/cairn removal in ch16).

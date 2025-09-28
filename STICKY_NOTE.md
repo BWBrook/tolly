@@ -1,5 +1,5 @@
 # Sticky Note for Future Agent
-Last updated: 2025-09-18 (evening)
+Last updated: 2025-09-28
 
 If you are a fresh instance, start here to regain context fast and avoid canon/style slips.
 
@@ -31,19 +31,19 @@ If you are a fresh instance, start here to regain context fast and avoid canon/s
 - Word count spot: `wc -w chapters/chXX.md`.
 - Manual grep (if needed): `rg -n -f style/LEXICON/banned_modern.txt chapters`.
 
-## Current Status (last session)
-- Prologue (ch00) and ch01–ch05 drafted; British spelling and em‑dash rules enforced; all checks pass.
-- Songs: ch02 (watch song AABB), ch04 (walking song AABB, polished for cadence).
-- Triad reviews: Group 0 (Prologue–ch02) and Group 1 (ch03–ch05) complete; `planning/triad_tracking.md` updated.
-- Next triad (ch06–ch08) up next; index has anchors/time through ch05.
-- Tooling: wrapper lint script, review prompts, UK spelling map, italics advisory, triad coverage check, PR template, `.editorconfig`.
+## Current Status (through ch11)
+- Drafted: Prologue (ch00) and ch01–ch11. All pass checks (UK spelling; em‑dashes within limits; anchors/time; song quota; triad coverage; italics advisory).
+- Songs: ch02 watch song (AABB); ch04 walking song (AABB, polished); ch08 distant Ranger lay fragment (4 lines).
+- Triad reviews completed: Group 0 (Prologue–ch02), Group 1 (ch03–ch05), Group 2 (ch06–ch08), Group 3 (ch09–ch11). See `planning/triad_tracking.md`.
+- Evidence chain (so far): tallies → coloured twine → tar crumb → rope fibre → false cairn map → reed‑knot primer + distances → near‑miss scrape/rope strain → integrated statement for Mayor/Mathom‑house.
+- Courtesy/Watch rules in play: By bells; Lantern low, never still; One token tale/day; Name little, mark much; no answers to unknown reeds; double watches at dawn/dusk while water sits lower.
 
-## Next Recommended Steps
-- Draft ch06 (“False Cairns”), ch07 (“Knots on the Reeds”), ch08 (“Wolf‑Sign at Dawn”).
-- Maintain British orthography; em‑dashes ≤ 3/chapter; italics sparingly.
-- Update glossary/geography as new names/places appear (knot terms, cairn sites).
-- Keep `planning/triad_tracking.md` current; after ch06–ch08, run Stage 6 Triad Review before moving to ch09–ch11.
-- Run `checks/run_style_checks.sh` regularly; use review checklist for PRs.
+## Next Recommended Steps (resume here)
+- Draft next triad per plan: ch12 Fog Intercept (by sundown; mid‑ford/willow shadow; lantern mis‑signal; pouch/tar evidence), ch13 The Deserter’s Tale (after harvest, late; bank fire; hospitality; “new masters” hinted; knot meanings confirmed), ch14 Bounders’ Compact (by bells; Hay Gate; formal ferry rules; red herring net resolved).
+- Maintain UK orthography; keep em‑dashes ≤ 3/chapter; italics sparingly and purposeful.
+- Keep tokens short: split stick or notch (not both). No tampering with markers unless in coordinated action with Rangers (later ch16).
+- Update `planning/triad_tracking.md` Group 4 during drafting; then run Stage 6 Triad Review (ch12–ch14) before proceeding.
+- Run `checks/run_style_checks.sh` after each draft; post any new courtesy/rule language to `background/glossary.md`.
 
 ## Style Snapback (voice reminders)
 - Anglo‑Saxon leaning diction; gentle alliteration per paragraph; measured polysyndeton.
@@ -57,5 +57,8 @@ If you are a fresh instance, start here to regain context fast and avoid canon/s
 - Check `planning/WORKFLOW.md` for the next stage.
 - Re‑read `background/canon_edges.md` before adding tension.
 - Ask for anchors first, then prose. Keep commits scoped: scaffold vs. prose vs. glossary sweep.
+
+## Quick Resume Pointer
+- Read: `planning/structural_plan.md` (ch12–ch14 beats), `planning/triad_tracking.md` (Group 4 prep), `chapters/_index.md` (ensure anchors/time), then open `chapters/ch12.md` to draft.
 
 Good luck, future me. Keep the watches.
