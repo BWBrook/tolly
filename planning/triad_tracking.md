@@ -83,19 +83,24 @@ Continuity Check
 
 ---
 
-## Group 3 — ch09 to ch11 (prep)
+## Group 3 — ch09 to ch11 (review)
 
 - ch09 — Countersigns and Courtesy (Hay Gate; Bounder post; by bells)
-  - Planned events: Bounder nearly misled by reed‑whistle; countersigns agreed; rota shared; courtesy phrasing captured for tokens/messages.
-  - Objects: countersign list; watch rota; “don’t answer unknown reeds” rule posted.
-  - Open threads: ensure countersigns don’t make tidy signals for onlookers.
+  - Events: young Bounder checked by “By bells”; Shire‑style countersigns agreed (proverbs, not passwords); rota chalked with dawn/dusk dots; polite stranger deflected by courtesy; split‑stick token adjusted.
+  - Objects: four‑line courtesy list (By bells; Lantern low, never still; One tale per day; Name little, mark much); rota copy; Mathom‑house red‑threaded notice.
+  - Notes: avoids tidy call‑and‑answer; uses natural phrasing; no leakage to onlookers.
 
 - ch10 — The Tally and the Map (Longbottom; ford overlook; by sundown)
-  - Planned events: coalesce proofs (knot code + cairn line + tallies); inference phrased for Mathom‑house; pressure note from Greenway tidings.
-  - Objects: integrated evidence page; neat copy for record packet.
-  - Open threads: communicate without naming names; Ranger confirmation sought.
+  - Events: proofs coalesce (knots + cairns + tallies + tar/fibre); dry Mathom‑house sentence written; Ranger brings Greenway tidings (waylaying kept quiet); packet dispatched to Mayor.
+  - Objects: integrated evidence page; copies for barn/Mayor/Mathom‑house.
+  - Notes: names withheld; emphasis on courtesy over “signals”.
 
 - ch11 — The Moved Stone (ferrystone; shoals; at first light)
-  - Planned events: confirm tamper by voice vs. placement; test channel; near‑miss rope/keel scrape; depth notes updated.
-  - Objects: rope fibres logged; voice change timings vs. wind; amended sketch.
-  - Open threads: whether to restore stone now or later (decision delayed to ch16).
+  - Events: ferrystone voice roughened with west wind; soft tongue found; near‑miss scrape/rope strain felt; new tar smear + fibre collected; decision to coordinate before moving stones; tokens set (double watches + wait on the look).
+  - Objects: tracing of post scar; timing notes; fibre bagged.
+  - Notes: maintains no‑tamper policy until joint action (later ch16).
+
+Continuity & Rails
+- Memory chain: tallies → twine → tar crumb → knot primer/cairn map → rope fibre/tar + near‑miss → integrated statement.
+- Protocols: By bells; lantern low/never still; one token tale/day; no answers to unknown reeds; doubled watches; coordinate before moving markers.
+- Canon: wolves remain across; no named powers invoked; Ranger lay fragment kept distant and functional.
