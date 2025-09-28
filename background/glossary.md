@@ -13,3 +13,6 @@ Purpose: brief glosses for newly coined names. Keep entries one line, update whe
 - Notched Rail — discreet notch on top rail of the old stile in the hollow lane; used as alternate token; to be used sparingly.
 - By Bells — proverb‑countersign meaning “keep to daylight; do not answer unknown reeds; meet by day.” Adopted at Hay Gate in ch09.
 - Lantern Low, Never Still — shorthand rule for watch craft at the ford: keep lanterns hooded and near the ground; never hang a steady light that can be counted from afar. Posted at Hay Gate in ch09.
+ - Mossfoot — caretaker at the Mathom-house; gatekeeper of records and tidy memory in Michel Delving.
+ - Hay Gate — watch‑post by the High Hay; boards and rota kept here. Not the same as the Haygate Stone.
+ - Haygate Stone — boundary marker on the Bywater Road; old stile nearby; distinct from the Hay Gate.

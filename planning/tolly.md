@@ -18,7 +18,7 @@
 
   * From anxious curiosity to field‑competent investigator.
   * Learns to read land and ruin by traveling to Michel Delving → Tower Hills → Annúminas/Evendim → Fornost; carries back **proof** (green‑fletched arrow shaft + leaf‑device banner‑scrap). 
-  * Allies gained: **Glaeron** (Elf at Elostirion), **Nathron** (Ranger of the North), **Mossfoot** (Mathom‑house), informal goodwill of the Mayor.
+  * Allies gained: **Glaeron** (Elf at Elostirion), **Nathron** (Ranger of the North), **Mossfoot** (Mathom-house), informal goodwill of the Mayor.
 
 **Tells & motifs (reuse across books)**
 
@@ -29,7 +29,7 @@
 
 **Inventory continuity**
 
-* Father’s battered tinder‑box; pouch of **ancient flint arrowheads** (Northfarthing trunk); personal notes; later: a careful copy of the **leaf‑device** scrap for safe reference (original deposited in Mathom‑house). 
+* Father’s battered tinder‑box; pouch of **ancient flint arrowheads** (Northfarthing trunk); personal notes; later: a careful copy of the **leaf‑device** scrap for safe reference (original deposited in Mathom-house). 
 
 ---
 
@@ -55,7 +55,7 @@ Use cameos sparingly, or introduce new characters. Either way, their job is to w
 
 ## 4) What the last book established (canon for this series)
 
-* The **hobbit archers** are no myth: material proof recovered at **Fornost**; **Annúminas** reconnoitred; **Elf/Ranger** corroboration; the Shire’s authorities (Mayor/Mathom‑house) accept and preserve the relics. This recognition arc must **persist** in public memory in book 2. 
+* The **hobbit archers** are no myth: material proof recovered at **Fornost**; **Annúminas** reconnoitred; **Elf/Ranger** corroboration; the Shire’s authorities (Mayor/Mathom-house) accept and preserve the relics. This recognition arc must **persist** in public memory in book 2. 
 
 ---
 
@@ -118,7 +118,7 @@ Sprinkle **named** micro‑toponyms every 2–3 pages (e.g., **Sarn‑Shallows**
 4. **Complication** — **Bounders** and **Rangers** misread each other; Tolly plays interpreter, nearly spoiling both sides’ patience.
 5. **Reveal (small scale)** — Night‑fog on the Brandywine; a skiff glides; Tomberic’s thrown stone disrupts a clandestine cache drop; the skiff flees.
 6. **Moral hinge** — They corner a young southerner on the bank; Tolly **chooses mercy**, buys information with food and safe passage **away** from the Shire.
-7. **Resolution** — Cache is lifted: a **crudely drawn map** of approach lanes, a **black‑dyed cord** with knot‑codes, a brass token from down‑Greenway. Tolly yields it to the Ranger—but makes meticulous copies for the **Mathom‑house**.
+7. **Resolution** — Cache is lifted: a **crudely drawn map** of approach lanes, a **black‑dyed cord** with knot‑codes, a brass token from down‑Greenway. Tolly yields it to the Ranger—but makes meticulous copies for the **Mathom-house**.
 8. **Return with addition** — Bounder‑Ranger truce warmed by shared tea; Shire lanes adjusted; ledger practice tightened. Tolly brings back **applied** memory, not just relics.
 
 **Eucatastrophe (novella‑scale)**
@@ -158,7 +158,7 @@ Sprinkle **named** micro‑toponyms every 2–3 pages (e.g., **Sarn‑Shallows**
 ## 6) Continuity Contracts from Book 1 → Book 2
 
 * Tolly practices **evidence discipline** learned in the ruins: sketches, copies, chain‑of‑custody. He deposits **copies** with Mossfoot; originals he returns to the Rangers when appropriate. 
-* Public memory **persists**: townsfolk in Michel Delving now speak (half‑proudly) of “our archers of old.” A child at Longbottom mentions the **leaf‑banner** in the Mathom‑house. 
+* Public memory **persists**: townsfolk in Michel Delving now speak (half‑proudly) of “our archers of old.” A child at Longbottom mentions the **leaf‑banner** in the Mathom-house. 
 * Returning allies act **in‑character**: Glaeron remains a sentinel, not a travel guide; Nathron aids briefly and vanishes to other watches. 
 
 ---
@@ -212,8 +212,8 @@ Sprinkle **named** micro‑toponyms every 2–3 pages (e.g., **Sarn‑Shallows**
 
 * **Inciting hunger:** dreams + father’s arrowheads move Tolly from Northfarthing to **Michel Delving**.
 * **Team forms:** Maralda (archives), Tomberic (roads).
-* **Evidence chain:** Mathom‑house scraps → Northfarthing trunk finds → Brammek’s tale points west → **Elostirion** (Elf) → **Annúminas** (first confirmation) → **Fornost** (relics).
-* **Return & recognition:** relics lodged; Mayor and Mathom‑house validate; Shire memory shifts from rumor to record. 
+* **Evidence chain:** Mathom-house scraps → Northfarthing trunk finds → Brammek’s tale points west → **Elostirion** (Elf) → **Annúminas** (first confirmation) → **Fornost** (relics).
+* **Return & recognition:** relics lodged; Mayor and Mathom-house validate; Shire memory shifts from rumor to record. 
 
 ---
 

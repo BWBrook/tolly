@@ -42,7 +42,7 @@ Purpose: ultra‑lean continuity ledger. Update after each triad (every three ch
 
 - ch03 — Leaf and Ledger (Longbottom; leaf barns; by bells)
   - Events: ledger shows clerk‑copied foreign seal notes; steward confirms “buyer’s string”; smooth‑talker asked about bells/ferries; note posted for workers.
-  - Objects: copied tally‑marks (to Mathom‑house); coloured twine match; tar crumb on old gate‑prop; boot print with wide nails.
+  - Objects: copied tally‑marks (to Mathom-house); coloured twine match; tar crumb on old gate‑prop; boot print with wide nails.
   - Open threads: Who carries the mark south; path from barns toward ferry watchers.
 
 - ch04 — Road Through Green Hills (Green Hill Country; Tookland; after harvest)
@@ -87,12 +87,12 @@ Continuity Check
 
 - ch09 — Countersigns and Courtesy (Hay Gate; Bounder post; by bells)
   - Events: young Bounder checked by “By bells”; Shire‑style countersigns agreed (proverbs, not passwords); rota chalked with dawn/dusk dots; polite stranger deflected by courtesy; split‑stick token adjusted.
-  - Objects: four‑line courtesy list (By bells; Lantern low, never still; One tale per day; Name little, mark much); rota copy; Mathom‑house red‑threaded notice.
+  - Objects: four‑line courtesy list (By bells; Lantern low, never still; One tale per day; Name little, mark much); rota copy; Mathom-house red‑threaded notice.
   - Notes: avoids tidy call‑and‑answer; uses natural phrasing; no leakage to onlookers.
 
 - ch10 — The Tally and the Map (Longbottom; ford overlook; by sundown)
-  - Events: proofs coalesce (knots + cairns + tallies + tar/fibre); dry Mathom‑house sentence written; Ranger brings Greenway tidings (waylaying kept quiet); packet dispatched to Mayor.
-  - Objects: integrated evidence page; copies for barn/Mayor/Mathom‑house.
+  - Events: proofs coalesce (knots + cairns + tallies + tar/fibre); dry Mathom-house sentence written; Ranger brings Greenway tidings (waylaying kept quiet); packet dispatched to Mayor.
+  - Objects: integrated evidence page; copies for barn/Mayor/Mathom-house.
   - Notes: names withheld; emphasis on courtesy over “signals”.
 
 - ch11 — The Moved Stone (ferrystone; shoals; at first light)
@@ -163,9 +163,9 @@ Continuity & Rails
   - Events (actual): morning audit (ferrystone steady; no new cairns); courtesy rounds (rota brushed; board edges tidied; token left ordinary with loose loop retained); cord returned by unknown hand; rider carries plain warning south; faint reed ignored; skiff crosses by day with escort; companions turn homeward.
   - Objects: cord (tar‑touched) logged; rider strip; short ledger line “Ford holds; warnings south; watches keep.”
 
-- ch19 — The Memory Kept (Anchors: Michel Delving; Mathom‑house | Time: by bells | Song: none)
-  - Events (actual): deposits logged at Mathom‑house (map copy before/after; knot primer; tar scrap; plain cord, all red‑threaded); Mayor’s civic sentence entered; compact recognised as standing practice at Hay Gate/overlook; recognition without fuss in square; Tolly private note kept.
-  - Objects: Mathom‑house receipt (implicit via ledger); civic ledger entries; bound copies.
+- ch19 — The Memory Kept (Anchors: Michel Delving; Mathom-house | Time: by bells | Song: none)
+  - Events (actual): deposits logged at Mathom-house (map copy before/after; knot primer; tar scrap; plain cord, all red‑threaded); Mayor’s civic sentence entered; compact recognised as standing practice at Hay Gate/overlook; recognition without fuss in square; Tolly private note kept.
+  - Objects: Mathom-house receipt (implicit via ledger); civic ledger entries; bound copies.
 
 Continuity & Rails
 - Closure: compact institutionalised locally; warning south dispatched; ferrystone/restored guides persist.

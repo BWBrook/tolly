@@ -17,7 +17,7 @@ Target: ~30,000 words. Bookends + 18 chapters (avg ~1,500 ± 500). Harness, not 
 ## Chapter Plan (titles provisional)
 
 Prologue — The Quiet Ledger (1,200)
-- POV/Register: Hobbit / lore. Anchors: Michel Delving; Mathom‑house. Time: by bells.
+- POV/Register: Hobbit / lore. Anchors: Michel Delving; Mathom-house. Time: by bells.
 - Beat: rumor seed; Maralda notes foreign tally‑marks in a ledger; crow‑news from Greenway.
 - Tension lever: buyer’s mark in wax; “new masters” unnamed.
 
@@ -113,7 +113,7 @@ ch18 — The Ford Holds (1,300)
 - Tension lever: wolf‑sign heard far off; winter presses in.
 
 Epilogue — The Memory Kept (1,000)
-- Register: lore/hearth. Anchors: Michel Delving; Mathom‑house. Time: by bells.
+- Register: lore/hearth. Anchors: Michel Delving; Mathom-house. Time: by bells.
 - Beat: deposit records (knot primer, tallies, maps, tar scrap); child mentions the leaf‑banner and archers of old; quiet hope with vigilance.
 
 ## Songs Plan (2–3 total)

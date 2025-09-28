@@ -68,10 +68,10 @@
 
 - ch16 — Dismantling the Lines
   - One‑liner: False marks are cleared and the ford’s true guides restored.
-  - Anchors: willow‑holt; ferrystone | Time: at first light | Song: none
+  - Anchors: willow‑holt; ferrystone | Time: at first light | Song: present
 
 - ch17 — Keep the Watches
-  - One‑liner: A Ranger relays a courteous message—“keep the watches”—said of Gandalf.
+  - One‑liner: A Ranger relays a courteous message—“keep the watches”—said to come by a grey pilgrim.
   - Anchors: Hay Gate; ford overlook | Time: after harvest | Song: none
 
 - ch18 — The Ford Holds
@@ -79,5 +79,5 @@
   - Anchors: Sarn Ford; ford overlook | Time: by sundown | Song: none
 
 - Epilogue — The Memory Kept
-  - One‑liner: Records are lodged at the Mathom‑house; memory kept for darker days.
+  - One‑liner: Records are lodged at the Mathom-house; memory kept for darker days.
   - Anchors: Michel Delving; Mathom-house | Time: by bells | Song: none

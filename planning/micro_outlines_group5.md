@@ -20,7 +20,7 @@ Purpose: 6–8 beat, image‑forward outlines to guide drafting while keeping to
 - Restore true guides: unobtrusive markers (small twig‑leans, brush cleared at right bar) reset per ferryman’s habit.
 - Courtesy to river: no big moves; nothing theatrical; work reads “maintenance,” not victory.
 - Token/rota: fork‑crown willow knot set to “all watches as posted”; rota reflects joint work window.
-- Ledger lines: one sentence for Mayor; one for Mathom‑house; copies to Ranger note.
+- Ledger lines: one sentence for Mayor; one for Mathom-house; copies to Ranger note.
 
 ## ch17 — Keep the Watches
 - Morning at posts: Hay Gate and ford overlook receive the copied compact; small corrections made where boards warp.
@@ -28,7 +28,7 @@ Purpose: 6–8 beat, image‑forward outlines to guide drafting while keeping to
 - Spread the practice: second post adopts the same rules; ferryman taught tight‑turn knot; boy teaches another boy.
 - Sign audit: no reeds answered; no new cairns; ferrystone steady; crows count and go.
 - Bounder kindness: a traveller sent by day with company; ledger note made; no names taken.
-- Close the loop: Tolly copies clean versions for Mayor and Mathom‑house with red thread; Tomberic carries service copies.
+- Close the loop: Tolly copies clean versions for Mayor and Mathom-house with red thread; Tomberic carries service copies.
 - Token: split stick reset to ordinary; no special knots; stillness preferred.
 - Outlook: ordinary lanes resume with better sense; horizon kept.
 
@@ -42,4 +42,3 @@ Purpose: 6–8 beat, image‑forward outlines to guide drafting while keeping to
 - Memory chain: compact posted → probe stalls → false cairns removed → protocols propagate; ferrystone/ledger continuity preserved.
 - Glossary: no new proper nouns required.
 - Protocol coherence: countersign “By bells”; lantern low/never still; day escort; joint action for markers; token discipline maintained.
-

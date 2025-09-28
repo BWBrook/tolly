@@ -36,7 +36,7 @@ If you are a fresh instance, start here to regain context fast and avoid canon/s
 - Checks: All chapters pass `checks/run_style_checks.sh` (UK spelling; em‑dashes within limits; anchors/time; song quota; gloss proximity; triad coverage; italics advisory).
 - Songs: ch02 watch song (AABB); ch04 walking song (AABB, polished); ch08 distant Ranger lay fragment (4 lines); ch16 hobbit work‑song (AABB, 2 stanzas). All within quota.
 - Triad status: Groups 0–6 completed; see `planning/triad_tracking.md` for details.
-- Evidence chain (so far): tallies → coloured twine → tar crumb → rope fibre → false cairn map → reed‑knot primer + distances → near‑miss scrape/rope strain → integrated statement for Mayor/Mathom‑house.
+- Evidence chain (so far): tallies → coloured twine → tar crumb → rope fibre → false cairn map → reed‑knot primer + distances → near‑miss scrape/rope strain → integrated statement for Mayor/Mathom-house.
 - Courtesy/Watch rules in play: By bells; Lantern low, never still; One token tale/day; Name little, mark much; no answers to unknown reeds; double watches at dawn/dusk while water sits lower.
 
 - ## Next Recommended Steps (resume here)
@@ -56,7 +56,7 @@ If you are a fresh instance, start here to regain context fast and avoid canon/s
 - Pastoral foreground, epic horizon; courtesy before courage; small eucatastrophes.
 
 ## Evidence Thread (“memory chain”)
-- Preserve artifacts gathered in‑story: knot primer, tar scrap, tally‑marks, depth notes; epilogue deposits them in the Mathom‑house.
+- Preserve artifacts gathered in‑story: knot primer, tar scrap, tally‑marks, depth notes; epilogue deposits them in the Mathom-house.
 
 ## When in Doubt
 - Check `planning/WORKFLOW.md` for the next stage.

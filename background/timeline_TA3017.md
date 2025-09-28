@@ -16,5 +16,5 @@ Standing constraints
 
 Additional anchors (for scene flavor)
 - Spring sowing — Bounders check stiles and posts along Stock Road.
-- By bells — Michel Delving posts keep time by bells; messages handed off at the Mathom‑house steps.
+- By bells — Michel Delving posts keep time by bells; messages handed off at the Mathom-house steps.
 - At first light — watchers at Sarn Ford inspect ferrystone marks and gravel bars.

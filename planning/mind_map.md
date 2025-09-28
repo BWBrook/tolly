@@ -4,7 +4,7 @@ Center premise: strange goings‑on near Sarn Ford; a Shire hobbit (Tolly) keeps
 
 ## Cast & Factions (spokes)
 - Core: Tolly [full name: Tolman Noakes] (quiet, evidence‑minded); Maralda Bunce (archives, practical); Tomberic Greenback (roadcraft, brave).
-- Shire: Auntie Wierdy (hearth), Bounders/Shirriffs (gatekeeping, etiquette), Michel Delving officials (Mathom‑house).
+- Shire: Auntie Wierdy (hearth), Bounders/Shirriffs (gatekeeping, etiquette), Michel Delving officials (Mathom-house).
 - Rangers: Nathron + 1–2 unnamed; courteous, wary; not quest‑dispensers.
 - Riverfolk: ferryman, weed‑cutters, night watch.
 - Southerners/Vagrants: mixed motives; one frightened deserter used by others.

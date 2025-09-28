@@ -19,7 +19,7 @@ Purpose: 6–8 beat, image-forward micro-outlines to guide drafting while stayin
 - Partial confession: “buyers” and “new masters” hinted, not named; work described—knots on reeds, bright cairn stones, ferrystone nudged “to make the count”.
 - Proof aligned: knot meanings confirmed; rough map fragment produced (or matched to pouch); wide‑nail boot sign noted; orders came “by coin,” not by oath.
 - Mercy chosen: no taking or binding; a warning given; the man sent off before first light by a safe line; compact observed.
-- Record kept: Maralda copies the fragment; Tolly logs times and phrases; copy sealed for the Mayor and Mathom‑house.
+- Record kept: Maralda copies the fragment; Tolly logs times and phrases; copy sealed for the Mayor and Mathom-house.
 - Next step set: agree to formalise ferry rules and rota with the Bounders at Hay Gate by bells.
 
 ## ch14 — Bounders’ Compact
@@ -32,7 +32,7 @@ Purpose: 6–8 beat, image-forward micro-outlines to guide drafting while stayin
   - No tampering with stones/cairns without joint action.
 - Ferry rules posted: ferrystone check schedule; clear bars after freshet; net placement resolved (red herring closed) and logged.
 - Rota and tokens: dawn/dusk dots chalked; fork‑crown willow token formalised; tight‑turn knot taught to Bounders.
-- Copies made: compact scribed twice—Mayor and Mathom‑house; red‑thread marking; Tomberic bears a service copy toward Longbottom.
+- Copies made: compact scribed twice—Mayor and Mathom-house; red‑thread marking; Tomberic bears a service copy toward Longbottom.
 - Courtesy tested: a whistle tries a Bounder; the proverb countersign holds; no leakage to onlookers.
 - Close: Ranger’s “keep the watches”; compact hung where a passerby sees only rules, not secrets.
 
@@ -46,4 +46,3 @@ Purpose: 6–8 beat, image-forward micro-outlines to guide drafting while stayin
 - Memory chain continuity: fog mis‑signal → pouch/tar → deserter’s confirmation/map fragment → compact codifies practice.
 - Glossary impact: no new proper nouns required; anchors use descriptive phrases (mid‑ford; willow shadow; bank fire) not needing glossary entries.
 - Protocol coherence: countersigns agreed earlier (ch09) are referenced; ch14 formalises with copies/rota without re‑inventing.
-
