@@ -38,19 +38,21 @@ Purpose: ultra‑lean continuity ledger. Update after each triad (every three ch
 
 ---
 
-## Group 1 — ch03 to ch05 (prep)
+## Group 1 — ch03 to ch05 (review)
 
 - ch03 — Leaf and Ledger (Longbottom; leaf barns; by bells)
-  - Planned events: ledger hand spotted; bale with foreign tally‑marks changes hands.
-  - Objects: copied tally‑marks; buyer’s seal noted; names withheld.
-  - Open threads: Who carries the marks; route from barns to ferry path.
+  - Events: ledger shows clerk‑copied foreign seal notes; steward confirms “buyer’s string”; smooth‑talker asked about bells/ferries; note posted for workers.
+  - Objects: copied tally‑marks (to Mathom‑house); coloured twine match; tar crumb on old gate‑prop; boot print with wide nails.
+  - Open threads: Who carries the mark south; path from barns toward ferry watchers.
 
 - ch04 — Road Through Green Hills (Green Hill Country; Tookland; after harvest)
-  - Planned events: travel and aims; hobbit walking song; companions align.
-  - Objects: none yet; notes on road‑sign and toponyms.
-  - Open threads: wolf‑rumour on southern farms; readiness for the ford.
+  - Events: companions align aims; walking song eases pace; farmer mentions black‑and‑green thread in hedge; hospitality in Tookland outskirts.
+  - Objects: minor thread in hedge noted (left in place); aims recorded (learn, courtesy, record).
+  - Open threads: crows’ patterns at dusk; small signs along hedges.
 
 - ch05 — First Watch at the Ford (Sarn Ford; Ranger blind; at first light)
-  - Planned events: river‑sign lesson; near‑miss skiff wake; rope/tar scent clue.
-  - Objects: first tar scrap likely; depth notes begin.
-  - Open threads: false cairn line to trace in next chapters.
+  - Events: Nathron teaches river‑reading; near‑miss skiff wake counted; no answers to taps; ferrystone voice logged; token placed at fork‑crown willow.
+  - Objects: rope fibre from oar‑scar; tar scent; foam‑track timings; sketch of bars.
+  - Open threads: false cairn pebbles too bright; reed‑knot decoding next; watch repeats by dawn.
+
+Continuity: memory chain advances (tallies → twine → tar crumb → rope fibre + timings). Courtesy protocols upheld (no answers; low lanterns; one tale per day).

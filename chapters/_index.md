@@ -20,7 +20,7 @@
 
 - ch04 — Road Through Green Hills
   - One‑liner: Companions set aims and take the road, a walking‑song on their lips.
-  - Anchors: Green Hill Country; Tookland | Time: after harvest | Song: planned
+  - Anchors: Green Hill Country; Tookland | Time: after harvest | Song: present
 
 - ch05 — First Watch at the Ford
   - One‑liner: At Sarn Ford, Tolly learns river‑signs and narrowly misreads a skiff.
