@@ -10,6 +10,12 @@ TOLLY is an experimental creative‑writing project where a human author and an 
 - `planning/` — series/character planning and the agent plan.
 See `repo_structure.md` for a fuller map.
 
+## Title & Blurb
+- Title: By Bells at Sarn Ford — A Shire Novella (TA 3017)
+- Blurb: see `book_metadata.yml` (`blurb`) for the canonical text.
+
+By bells and without parade, a few neighbours keep watch at the southern ford: reading the river’s old voice, learning reed‑knots, and setting quiet rules that hold the line while the wider world grows troubled. A Shire prelude to darker days.
+
 ## Quickstart
 1) Read `style/STYLE_GUIDE.md` and `background/canon_edges.md` (constraints), then skim `background/geography_shire.md` and `timeline_TA3017.md`.
 2) Update beats/continuity in `planning/tolly.md`; consult `planning/AGENT_PLANNING.md` for the file plan.
@@ -29,6 +35,23 @@ See `repo_structure.md` for a fuller map.
 - Run checks: `checks/run_style_checks.sh` (or pass a custom dir: `checks/run_style_checks.sh chapters`).
 - Word count spot check: `wc -w chapters/ch01.md`.
 - Manual grep for banned terms: `rg -n -f style/LEXICON/banned_modern.txt chapters`.
+
+## Export: Bind Chapters to Word (.docx)
+Use the binder script to strip front‑matter, add chapter headings, and produce a single `.docx`:
+
+- Requires: `pandoc` (install via `brew install pandoc` on macOS, `sudo apt-get install pandoc` on Debian/Ubuntu).
+- Default output: `build/novella.docx`.
+
+Commands:
+- Run: `scripts/bind_docx.sh`
+- Custom output: `scripts/bind_docx.sh -o build/by-bells.docx`
+- Custom metadata file: `scripts/bind_docx.sh -m book_metadata.yml`
+
+The script:
+- Reads `book_metadata.yml` for `title` (optional) and writes a title page.
+- Processes `chapters/ch00.md` … `chapters/ch19.md` (skips `_index.md` and `chNN.md`).
+- Removes YAML front matter and inserts each chapter’s `title:` as an H1 heading.
+- Calls `pandoc` to produce the `.docx`.
 
 ## Contributing
 Follow `AGENTS.md` for contributor expectations. Keep commits scoped (scene, glossary sweep, or planning update) and include the PR checklist from `checks/review_prompts.md`.

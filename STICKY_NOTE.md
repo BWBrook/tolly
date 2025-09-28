@@ -67,3 +67,8 @@ If you are a fresh instance, start here to regain context fast and avoid canon/s
 - Read: `planning/structural_plan.md` (ch12–ch14 beats), `planning/triad_tracking.md` (Group 4 prep), `chapters/_index.md` (ensure anchors/time), then open `chapters/ch12.md` to draft.
 
 Good luck, future me. Keep the watches.
+
+## Epilogue Guardrails (tone + resolution)
+- Endings stay modest and local: bells, drawers, lanes, and kept courtesy carry the weight.
+- Hint at wider unrest only obliquely (no named powers onstage); keep the Shire’s peace earned and ordinary.
+- Let records and small habits close the circle (Mathom-house copy; posted boards; private note).
