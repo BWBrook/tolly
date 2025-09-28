@@ -31,18 +31,20 @@ If you are a fresh instance, start here to regain context fast and avoid canon/s
 - Word count spot: `wc -w chapters/chXX.md`.
 - Manual grep (if needed): `rg -n -f style/LEXICON/banned_modern.txt chapters`.
 
-## Current Status (through ch17 drafted)
-- Drafted: Prologue (ch00) and ch01–ch17 complete in draft. Group 4 (ch12–ch14) and Group 5 (ch15–ch17) drafted and reviewed per outlines.
+- ## Current Status (complete through ch19)
+- Drafted: Prologue (ch00) and ch01–ch19 complete in draft. Group 4 (ch12–ch14), Group 5 (ch15–ch17), and Group 6 (ch18–ch19) drafted and reviewed per outlines.
 - Checks: All chapters pass `checks/run_style_checks.sh` (UK spelling; em‑dashes within limits; anchors/time; song quota; gloss proximity; triad coverage; italics advisory).
 - Songs: ch02 watch song (AABB); ch04 walking song (AABB, polished); ch08 distant Ranger lay fragment (4 lines); ch16 hobbit work‑song (AABB, 2 stanzas). All within quota.
-- Triad status: Groups 0–5 completed; see `planning/triad_tracking.md` for details.
+- Triad status: Groups 0–6 completed; see `planning/triad_tracking.md` for details.
 - Evidence chain (so far): tallies → coloured twine → tar crumb → rope fibre → false cairn map → reed‑knot primer + distances → near‑miss scrape/rope strain → integrated statement for Mayor/Mathom‑house.
 - Courtesy/Watch rules in play: By bells; Lantern low, never still; One token tale/day; Name little, mark much; no answers to unknown reeds; double watches at dawn/dusk while water sits lower.
 
-## Next Recommended Steps (resume here)
-- Draft Group 6 per index and plan:
-  - ch18 The Ford Holds — quiet resolution confirmed; warnings sent south.
-  - Epilogue The Memory Kept — records lodged at the Mathom‑house; memory kept for darker days.
+- ## Next Recommended Steps (resume here)
+- Prep final review:
+  - Run `checks/run_style_checks.sh` (all chapters) — confirm zero fails.
+  - Read for cadence drift; trim any stray em‑dashes; keep UK orthography.
+  - Open PR “Triad Reviews 4–6 consolidation” with checklist; attach planning updates.
+  - Optional: begin pass for sentence‑length bands and light line edits per `style/STYLE_GUIDE.md`.
 - Maintain UK orthography; keep em‑dashes ≤ 3/chapter; italics sparingly and purposeful.
 - Keep tokens short: split stick or notch (not both). No tampering with markers unless in coordinated action with Rangers (later ch16).
 - Update `planning/triad_tracking.md` Group 6 during drafting; then run Stage 6 Triad Review before proceeding.

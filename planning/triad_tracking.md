@@ -157,12 +157,18 @@ Continuity & Rails
 
 ---
 
-## Group 6 — ch18 to ch19 (scaffolded)
+## Group 6 — ch18 to ch19 (review — completed)
 
 - ch18 — The Ford Holds (Anchors: Sarn Ford; ford overlook | Time: by sundown | Song: none)
-  - Planned events: morning audit (steady ferrystone; no new cairns); courtesy rounds; warning sent south; faint reed ignored; skiff by day with escort; companions turn homeward.
-  - Objects: rota cleaned; short ledger line; rider copy south.
+  - Events (actual): morning audit (ferrystone steady; no new cairns); courtesy rounds (rota brushed; board edges tidied; token left ordinary with loose loop retained); cord returned by unknown hand; rider carries plain warning south; faint reed ignored; skiff crosses by day with escort; companions turn homeward.
+  - Objects: cord (tar‑touched) logged; rider strip; short ledger line “Ford holds; warnings south; watches keep.”
 
 - ch19 — The Memory Kept (Anchors: Michel Delving; Mathom‑house | Time: by bells | Song: none)
-  - Planned events: deposits logged (map copy; knot primer; tar scrap; cord); Mayor brief; compact recognised as standing practice; closing image of ordinary museum light.
-  - Objects: red‑threaded packet receipts; civic ledger sentence.
+  - Events (actual): deposits logged at Mathom‑house (map copy before/after; knot primer; tar scrap; plain cord, all red‑threaded); Mayor’s civic sentence entered; compact recognised as standing practice at Hay Gate/overlook; recognition without fuss in square; Tolly private note kept.
+  - Objects: Mathom‑house receipt (implicit via ledger); civic ledger entries; bound copies.
+
+Continuity & Rails
+- Closure: compact institutionalised locally; warning south dispatched; ferrystone/restored guides persist.
+- Protocols: countersign by proverb; day‑only escorts; no answering reeds; ordinary token (all watches as posted) with loose loop (wait on the look).
+- Canon safety maintained; scale humane; no named powers onstage.
+- Style gates observed; UK orthography; banned lexis absent; ≤3 em‑dashes; no songs.
