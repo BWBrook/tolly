@@ -174,6 +174,63 @@ for f in "$CHAPTERS_DIR"/ch*.md; do
   fi
 done
 
+echo "\n== Checking Mathom-house hyphenation (CONSISTENCY) =="
+# Enforce ASCII hyphen for 'Mathom-house'; flag non-ASCII hyphens/dashes between words
+SEARCH_PATHS=${SEARCH_PATHS:-chapters background planning style songs README.md STICKY_NOTE.md}
+bad_hyphen_hits=""
+bad_hyphen_hits="$bad_hyphen_hits\n$($RG -n -S 'Mathom‑house' $SEARCH_PATHS 2>/dev/null || true)" # U+2011 NB hyphen
+bad_hyphen_hits="$bad_hyphen_hits\n$($RG -n -S 'Mathom–house' $SEARCH_PATHS 2>/dev/null || true)" # U+2013 en dash
+bad_hyphen_hits=$(printf "%b\n" "$bad_hyphen_hits" | sed '/^$/d')
+if [ -n "$bad_hyphen_hits" ]; then
+  echo "Non-ASCII hyphen found in 'Mathom-house' spelling; use ASCII '-' instead:" >&2
+  printf "%b\n" "$bad_hyphen_hits" >&2
+  errors=$((errors+1))
+else
+  echo "OK: 'Mathom-house' uses ASCII hyphen only."
+fi
+
+echo "\n== Checking song flags vs chapters/_index.md (CONSISTENCY) =="
+index_file=chapters/_index.md
+if [ -f "$index_file" ]; then
+  tmp_index_map=$(mktemp)
+  awk '
+    /^- Prologue/ {curr="ch00"; next}
+    /^- Epilogue/ {curr="ch19"; next}
+    /^- ch[0-9][0-9] / {match($0, /^- ch([0-9][0-9]) /, m); curr="ch" m[1]; next}
+    /Song:/ { if (curr!="") { if (match($0, /Song:\s*(present|none)/, m2)) { print curr"\t"m2[1]; } } }
+  ' "$index_file" > "$tmp_index_map"
+
+  mismatches=0
+  for f in "$CHAPTERS_DIR"/ch*.md; do
+    base=$(basename "$f" .md)
+    [ "$base" = "chNN" ] && continue
+    # front-matter song_present
+    fmval=$(grep -E '^song_present:' "$f" | awk '{print $2}')
+    [ "$fmval" = "true" ] && fm="present" || fm="none"
+    idx=$(awk -v b="$base" '$1==b{print $2}' "$tmp_index_map")
+    # map special cases if missing
+    if [ -z "$idx" ]; then
+      # tolerate missing for drafts, but flag
+      echo "INDEX missing Song entry for $base — update chapters/_index.md" >&2
+      mismatches=$((mismatches+1))
+      continue
+    fi
+    if [ "$fm" != "$idx" ]; then
+      echo "SONG flag mismatch — $base: index '$idx' vs front '$fm'" >&2
+      mismatches=$((mismatches+1))
+    else
+      echo "OK: Song flag matches — $base ($fm)"
+    fi
+  done
+  rm -f "$tmp_index_map"
+  if [ "$mismatches" -gt 0 ]; then
+    errors=$((errors+1))
+  fi
+else
+  echo "Index not found ($index_file)." >&2
+  errors=$((errors+1))
+fi
+
 echo "\n== Result =="
 if [ "$errors" -eq 0 ]; then
   echo "All checks passed."

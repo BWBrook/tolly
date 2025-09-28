@@ -12,7 +12,7 @@
 - ch02 — Lanterns at the Hay Gate
   - One‑liner: At the Hay Gate, Rangers share grim tidings and agree on a watch.
   - Beats: quiet_open → boundary_crossed → encounter → return_with_addition
-  - Anchors: Stock Road; Hay Gate | Time: by sundown | Song: none
+  - Anchors: Stock Road; Hay Gate | Time: by sundown | Song: present
 
 - ch03 — Leaf and Ledger
   - One‑liner: In Longbottom, foreign tally‑marks surface in a quiet leaf trade.

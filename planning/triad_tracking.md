@@ -120,7 +120,7 @@ Continuity & Rails
   - Notes: protocol reiterated—name little, mark much; day escort only; no reeds answered.
 
 - ch14 — Bounders’ Compact (Anchors: Hay Gate; watch posts | Time: by bells | Song: none)
-  - Events (actual): compact posted in plain speech (rules 1–7); rota chalked with dawn/dusk dots; ferry rules pinned (ferrystone check by first/last; bars cleared by joint hands; cord/twine to post); countersign “By bells” tested; unknown reed ignored; missing net resolved (hung to dry; red‑rag practice set); sample knots tied on board; copies made (Mayor, Mathom‑house, Ranger).
+  - Events (actual): compact posted in plain speech (rules 1–7); rota chalked with dawn/dusk dots; ferry rules pinned (ferrystone check by first/last; bars cleared by joint hands; cord/twine to post); countersign “By bells” tested; unknown reed ignored; missing net resolved (hung to dry; red‑rag practice set); sample knots tied on board; copies made (Mayor, Mathom-house, Ranger).
   - Objects: two red‑threaded copies delivered; service copy carried toward Longbottom; token refreshed at fork‑crown willow.
   - Notes: courtesy tone maintained; board placed for legibility and weather.
 
