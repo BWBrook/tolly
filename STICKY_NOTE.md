@@ -1,5 +1,5 @@
 # Sticky Note for Future Agent
-Last updated: 2025-09-18
+Last updated: 2025-09-18 (evening)
 
 If you are a fresh instance, start here to regain context fast and avoid canon/style slips.
 
@@ -32,19 +32,18 @@ If you are a fresh instance, start here to regain context fast and avoid canon/s
 - Manual grep (if needed): `rg -n -f style/LEXICON/banned_modern.txt chapters`.
 
 ## Current Status (last session)
-- Prologue (ch00), ch01, ch02 drafted; British spelling and em‑dash rules enforced; all checks pass.
-- ch02 includes a short hobbit watch‑song (AABB) placed at the Hay Gate.
-- Triad system in place: Stage 6 in `planning/WORKFLOW.md`; `planning/triad_tracking.md` Group 0 logged; Group 1 (ch03–ch05) prepped.
-- ch03 scaffolded; anchors/time added in `chapters/_index.md` for ch03–ch05.
-- Geography expanded (incl. Westfarthing); glossary seeded (Ferrystone, Lantern Shutter, Buyer’s Seal, etc.).
-- Tooling: wrapper lint script, review prompts, UK spelling map, italics advisory, PR template, `.editorconfig`.
+- Prologue (ch00) and ch01–ch05 drafted; British spelling and em‑dash rules enforced; all checks pass.
+- Songs: ch02 (watch song AABB), ch04 (walking song AABB, polished for cadence).
+- Triad reviews: Group 0 (Prologue–ch02) and Group 1 (ch03–ch05) complete; `planning/triad_tracking.md` updated.
+- Next triad (ch06–ch08) up next; index has anchors/time through ch05.
+- Tooling: wrapper lint script, review prompts, UK spelling map, italics advisory, triad coverage check, PR template, `.editorconfig`.
 
 ## Next Recommended Steps
-- Draft ch03 (“Leaf and Ledger”), then ch04 (“Road Through Green Hills”), then ch05 (“First Watch at the Ford”).
-- Maintain British orthography; keep em‑dashes ≤ 3/chapter; italics sparingly.
-- Update `background/glossary.md` and `background/geography_shire.md` as new names/places appear.
-- Keep `planning/triad_tracking.md` current; after ch03–ch05, perform Stage 6 Triad Review (edit pass + checks) before proceeding.
-- Run `checks/run_style_checks.sh` regularly; open PRs with the review checklist when scaffolds/drafts are ready.
+- Draft ch06 (“False Cairns”), ch07 (“Knots on the Reeds”), ch08 (“Wolf‑Sign at Dawn”).
+- Maintain British orthography; em‑dashes ≤ 3/chapter; italics sparingly.
+- Update glossary/geography as new names/places appear (knot terms, cairn sites).
+- Keep `planning/triad_tracking.md` current; after ch06–ch08, run Stage 6 Triad Review before moving to ch09–ch11.
+- Run `checks/run_style_checks.sh` regularly; use review checklist for PRs.
 
 ## Style Snapback (voice reminders)
 - Anglo‑Saxon leaning diction; gentle alliteration per paragraph; measured polysyndeton.

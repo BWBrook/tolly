@@ -47,7 +47,7 @@ Purpose: ultra‑lean continuity ledger. Update after each triad (every three ch
 
 - ch04 — Road Through Green Hills (Green Hill Country; Tookland; after harvest)
   - Events: companions align aims; walking song eases pace; farmer mentions black‑and‑green thread in hedge; hospitality in Tookland outskirts.
-  - Objects: minor thread in hedge noted (left in place); aims recorded (learn, courtesy, record).
+  - Objects: minor thread in hedge noted (left in place); aims recorded (learn, courtesy, record). Song (AABB) polished for cadence.
   - Open threads: crows’ patterns at dusk; small signs along hedges.
 
 - ch05 — First Watch at the Ford (Sarn Ford; Ranger blind; at first light)
