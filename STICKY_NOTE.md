@@ -31,15 +31,16 @@ If you are a fresh instance, start here to regain context fast and avoid canon/s
 - Word count spot: `wc -w chapters/chXX.md`.
 - Manual grep (if needed): `rg -n -f style/LEXICON/banned_modern.txt chapters`.
 
-## Current Status (through ch11)
-- Drafted: Prologue (ch00) and ch01–ch11. All pass checks (UK spelling; em‑dashes within limits; anchors/time; song quota; triad coverage; italics advisory).
+## Current Status (through ch14 scaffolded)
+- Drafted: Prologue (ch00) and ch01–ch11. New scaffolds added for ch12–ch14 with complete front matter.
+- Checks: All existing chapters pass (UK spelling; em‑dashes within limits; anchors/time; song quota; triad coverage; italics advisory). Run checks again after you begin drafting ch12–ch14.
 - Songs: ch02 watch song (AABB); ch04 walking song (AABB, polished); ch08 distant Ranger lay fragment (4 lines).
-- Triad reviews completed: Group 0 (Prologue–ch02), Group 1 (ch03–ch05), Group 2 (ch06–ch08), Group 3 (ch09–ch11). See `planning/triad_tracking.md`.
+- Triad status: Group 0 (Prologue–ch02), Group 1 (ch03–ch05), Group 2 (ch06–ch08), Group 3 (ch09–ch11) completed; Group 4 (ch12–ch14) scaffolded with anchors/time set.
 - Evidence chain (so far): tallies → coloured twine → tar crumb → rope fibre → false cairn map → reed‑knot primer + distances → near‑miss scrape/rope strain → integrated statement for Mayor/Mathom‑house.
 - Courtesy/Watch rules in play: By bells; Lantern low, never still; One token tale/day; Name little, mark much; no answers to unknown reeds; double watches at dawn/dusk while water sits lower.
 
 ## Next Recommended Steps (resume here)
-- Draft next triad per plan: ch12 Fog Intercept (by sundown; mid‑ford/willow shadow; lantern mis‑signal; pouch/tar evidence), ch13 The Deserter’s Tale (after harvest, late; bank fire; hospitality; “new masters” hinted; knot meanings confirmed), ch14 Bounders’ Compact (by bells; Hay Gate; formal ferry rules; red herring net resolved).
+- Draft Group 4: ch12 Fog Intercept (by sundown; mid‑ford/willow shadow; lantern mis‑signal; pouch/tar evidence), ch13 The Deserter’s Tale (after harvest; bank fire; hospitality; “new masters” hinted; knot meanings confirmed), ch14 Bounders’ Compact (by bells; Hay Gate; formal ferry rules; red herring net resolved).
 - Maintain UK orthography; keep em‑dashes ≤ 3/chapter; italics sparingly and purposeful.
 - Keep tokens short: split stick or notch (not both). No tampering with markers unless in coordinated action with Rangers (later ch16).
 - Update `planning/triad_tracking.md` Group 4 during drafting; then run Stage 6 Triad Review (ch12–ch14) before proceeding.

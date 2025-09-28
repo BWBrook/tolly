@@ -50,32 +50,17 @@
   - One‑liner: Ferrystone tamper confirmed; a test of the bad channel becomes a near‑miss.
   - Anchors: ferrystone; shoals | Time: at first light | Song: none
 
-- ch06 — False Cairns
-  - One‑liner: A false cairn line betrays a surveyed channel; tarred scrap in hand.
-
-- ch07 — Knots on the Reeds
-  - One‑liner: Reed‑knots yield a code; the ferrystone seems subtly askew.
-
-- ch08 — Wolf‑Sign at Dawn
-  - One‑liner: Wolf‑sign across the river raises stakes without crossing Shire lanes.
-
-- ch09 — Countersigns and Courtesy
-  - One‑liner: A Bounder is lured by a whistle; shared countersigns mend trust.
-
-- ch10 — The Tally and the Map
-  - One‑liner: Knots, cairns, and tallies align—someone maps the Shire’s approach.
-
-- ch11 — The Moved Stone
-  - One‑liner: A shifted ferrystone causes a near wreck; depth notes confirm tampering.
-
 - ch12 — Fog Intercept
   - One‑liner: Lantern ruse in fog diverts a skiff; hard evidence is retrieved.
+  - Anchors: mid‑ford; willow shadow | Time: by sundown | Song: none
 
 - ch13 — The Deserter’s Tale
   - One‑liner: By the fire, a frightened man confirms the trade yet names no master.
+  - Anchors: bank fire; Ranger blind | Time: after harvest | Song: none
 
 - ch14 — Bounders’ Compact
   - One‑liner: Bounders and Rangers formalize quiet protocols and ferry rules.
+  - Anchors: Hay Gate; watch posts | Time: by bells | Song: none
 
 - ch15 — Night of Small Courage
   - One‑liner: Tomberic’s lamp steadies a tense night; the probe withdraws.

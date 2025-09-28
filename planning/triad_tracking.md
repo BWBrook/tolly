@@ -107,19 +107,19 @@ Continuity & Rails
 
 ---
 
-## Group 4 — ch12 to ch14 (prep)
+## Group 4 — ch12 to ch14 (scaffolded)
 
-- ch12 — Fog Intercept (mid‑ford; willow shadow; by sundown)
-  - Planned events: fog rolls; lantern mis‑signal executed to divert skiff; tar scrap and watertight pouch recovered; faint two‑blast horn south; crows scatter.
-  - Objects: pouch contents (to log, not spoil); tar scrap; incident timings.
+- ch12 — Fog Intercept (Anchors: mid‑ford; willow shadow | Time: by sundown | Song: none)
+  - Events (planned): fog rolls; lantern mis‑signal diverts a skiff to harmless shallows; tar scrap + watertight pouch recovered; faint two‑blast horn south; crows scatter.
+  - Objects: pouch contents (to log later without spoilers); tar scrap; incident timings.
   - Open threads: test courtesy vs. cunning; keep tokens short; no pursuit.
 
-- ch13 — The Deserter’s Tale (bank fire; blind; after harvest, late)
-  - Planned events: hospitality test; frightened man speaks of “buyers”/“new masters” without names; mercy shown; knot meanings confirmed/maps hinted.
+- ch13 — The Deserter’s Tale (Anchors: bank fire; Ranger blind | Time: after harvest | Song: none)
+  - Events (planned): hospitality test; frightened man confirms buyers/“new masters” without names; knot meanings confirmed and maps hinted; mercy shown.
   - Objects: rough map fragment; primer corroboration; no names recorded.
   - Open threads: signal origins; maintain rails (no overt naming).
 
-- ch14 — Bounders’ Compact (Hay Gate; watch posts; by bells)
-  - Planned events: formalise protocols; share countersigns; agree ferry rules; resolve missing net red herring.
+- ch14 — Bounders’ Compact (Anchors: Hay Gate; watch posts | Time: by bells | Song: none)
+  - Events (planned): formalise protocols; share countersigns; agree ferry rules; resolve missing net red herring.
   - Objects: posted rules copy; rota updates; Mathom‑house notice.
   - Open threads: readiness for later joint action (stone/cairn removal in ch16).
