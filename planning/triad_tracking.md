@@ -107,19 +107,25 @@ Continuity & Rails
 
 ---
 
-## Group 4 — ch12 to ch14 (scaffolded)
+## Group 4 — ch12 to ch14 (review — completed)
 
 - ch12 — Fog Intercept (Anchors: mid‑ford; willow shadow | Time: by sundown | Song: none)
-  - Events (planned): fog rolls; lantern mis‑signal diverts a skiff to harmless shallows; tar scrap + watertight pouch recovered; faint two‑blast horn south; crows scatter.
-  - Objects: pouch contents (to log later without spoilers); tar scrap; incident timings.
-  - Open threads: test courtesy vs. cunning; keep tokens short; no pursuit.
+  - Events (actual): fog lays low; one low, hooded lantern swing; wake turns onto harmless shoal; rope scrape then slackens; faint two‑blast horn south; three crows lift east; no pursuit.
+  - Objects: tar rag with grit + rope hair; wax‑cloth packet recovered at willow root (plain cord + black‑and‑green thread); red‑thread chain applied; contents unopened on bank.
+  - Notes: token set at fork‑crown willow (tight turn + loose loop). Ledger lines entered with times and wind. Courtesy rules upheld (no answering reeds).
 
 - ch13 — The Deserter’s Tale (Anchors: bank fire; Ranger blind | Time: after harvest | Song: none)
-  - Events (planned): hospitality test; frightened man confirms buyers/“new masters” without names; knot meanings confirmed and maps hinted; mercy shown.
-  - Objects: rough map fragment; primer corroboration; no names recorded.
-  - Open threads: signal origins; maintain rails (no overt naming).
+  - Events (actual): stranger fed before questions; confirms knot‑primer (end=attention; double=bells; loose loop=wait; tight loop=go; tail‑tuck=left; fork=right); bright‑cairn line method explained (finger press on top stone); broad‑palm wax and black‑and‑green thread described; “new masters” unnamed; mercy given and safe route out advised.
+  - Objects: greased‑paper scrap with bead‑map/turns; pouch from ch12 opened at board, copied in square hand; originals resealed with red thread; no names recorded.
+  - Notes: protocol reiterated—name little, mark much; day escort only; no reeds answered.
 
 - ch14 — Bounders’ Compact (Anchors: Hay Gate; watch posts | Time: by bells | Song: none)
-  - Events (planned): formalise protocols; share countersigns; agree ferry rules; resolve missing net red herring.
-  - Objects: posted rules copy; rota updates; Mathom‑house notice.
-  - Open threads: readiness for later joint action (stone/cairn removal in ch16).
+  - Events (actual): compact posted in plain speech (rules 1–7); rota chalked with dawn/dusk dots; ferry rules pinned (ferrystone check by first/last; bars cleared by joint hands; cord/twine to post); countersign “By bells” tested; unknown reed ignored; missing net resolved (hung to dry; red‑rag practice set); sample knots tied on board; copies made (Mayor, Mathom‑house, Ranger).
+  - Objects: two red‑threaded copies delivered; service copy carried toward Longbottom; token refreshed at fork‑crown willow.
+  - Notes: courtesy tone maintained; board placed for legibility and weather.
+
+Continuity & Rails
+- Memory chain advances: fog mis‑signal → tar rag + packet → deserter’s confirmation/map strip → compact codifies practice.
+- Protocols: “No answering unknown reeds”; “Lantern low, never still”; day escort only; dawn/dusk double watches; one brief token tale/day; no stone/cairn moves without joint action.
+- Canon: Rangers present but thin; wolves remain across; no named powers; Nazgûl/Sharkey absent; scale local; no pitched fights.
+- Style: UK orthography; banned modern lexis absent; ≤3 em‑dashes; zero songs in triad; time anchors varied (by sundown | after harvest | by bells).
